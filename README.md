@@ -31,5 +31,4 @@ Jupyter notebooks are utilized to display the results. More specifically, they a
 - `clustering.ipynb`: plots the embeddings of the transition tokens
 - `convergence_diagnostics.ipynb`: performs convergence diagnostics checks on the model (usual Log likelihood convergence and [Posterior Predictive Check](https://cran.r-project.org/web/packages/LaplacesDemon/vignettes/BayesianInference.pdf). 
 
-### Credits
-This project was done as part of the final exam for the probabilistic Machine Learning course by prof. Bortolussi, 2025.
+
