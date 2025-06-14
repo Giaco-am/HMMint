@@ -1,7 +1,8 @@
 # A Hidden Markov Model for exploring prediction trajectories in Transformers
 Authors:
-- Giovanni Billo
 - Giacomo Amerio
+- Giovanni Billo
+
 
 ## Description
 In this project we used and HMM to abstract the probability trajectories produced by transformers in a simple sentiment analysis task. 
